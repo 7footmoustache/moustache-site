@@ -1,0 +1,41 @@
+{
+  "version": "0.0.1",
+  "main": "app.js",
+  "bin": {
+    "moustache-site": "server.js"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "loopback": "~1.9.0",
+    "loopback-datasource-juggler": "~1.6.0",
+    "loopback-explorer": "~1.1.0",
+    "loopback-component-push": "~1.2.2"
+  },
+  "optionalDependencies": {
+    "loopback-explorer": "~1.1.0",
+    "loopback-component-push": "~1.2.2"
+  },
+  "name": "moustache-site",
+  "description": "Nerding out on the dork",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/7footmoustache/moustache-site.git"
+  },
+  "keywords": [
+    "loopback",
+    "strongloop",
+    "react.js",
+    "moustache",
+    "shit-rock",
+    "shitrock"
+  ],
+  "author": "Craig Dennis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/7footmoustache/moustache-site/issues"
+  },
+  "homepage": "https://github.com/7footmoustache/moustache-site"
+}
